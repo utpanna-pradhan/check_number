@@ -1,5 +1,5 @@
 # check_number
-checking number using html and css
+checking number using html , css and javascript
 
 #Screenshot
 
